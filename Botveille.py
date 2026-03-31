@@ -99,7 +99,6 @@ RSS_URLS = [
     "https://www.studyrama.com",
     "https://www.apec.fr",
     "https://www.meteojob.com",
-    "https://www.jooble.org",
     "https://www.monster.fr",
     "https://www.lesjeudis.com",
     "https://scopecyber.fr/stage",
