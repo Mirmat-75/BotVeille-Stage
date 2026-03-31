@@ -1,5 +1,5 @@
 
-name: Bot Veille Tech
+name: Bot Veille Stage
 
 on:
   schedule:
